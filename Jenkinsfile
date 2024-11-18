@@ -1,4 +1,4 @@
-def registry = 'https://purudevops.jfrog.io'
+def registry = 'https://purudevops.jfrog.io/ui/repos/tree/General/purujfrog-libs-release-local'
 def version   = '2.1.4'
 pipeline {
     agent {
