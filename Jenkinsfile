@@ -1,5 +1,5 @@
 def registry = 'https://purudevops.jfrog.io'
-
+def version   = '2.1.4'
 pipeline {
     agent {
         node {
